@@ -4,3 +4,4 @@ Rencana Fitur
   user login/multi
   
 - Java Script
+  struktur data dasar
