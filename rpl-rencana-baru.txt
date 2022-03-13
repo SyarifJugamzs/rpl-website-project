@@ -5,3 +5,5 @@ Rencana Fitur
   
 - Java Script
   struktur data dasar
+  view
+  laravel
