@@ -3,3 +3,5 @@ Rpl Plan WEB-BUILD
 - Qr code generator and reader
 - Database multi case
 - Data Organizer Status
+- merubah data utama/web_master
+- organisir assets
