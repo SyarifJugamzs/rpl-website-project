@@ -1,0 +1,5 @@
+Rpl Plan WEB-BUILD
+- Multi Login User
+- Qr code generator and reader
+- Database multi case
+- Data Organizer Status
